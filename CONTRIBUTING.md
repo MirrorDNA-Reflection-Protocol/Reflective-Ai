@@ -30,6 +30,12 @@ If you've extended these ideas in new directions:
 - Describe your approach and results
 - Share learnings
 
+### **5. Documentation Improvements**
+If you are clarifying language or adding missing context:
+- Submit a pull request from a `docs/<slug>` branch
+- Include a short rationale for each change and cite the sections you touched
+- Keep the Master Citation references intact; do not rename or remove canonical specs
+
 ---
 
 ## What's Not Accepted
@@ -43,9 +49,11 @@ If you've extended these ideas in new directions:
 
 ## Code of Conduct
 
-**Be respectful.** Ideas are challenged, people are not.  
-**Be specific.** Vague feedback isn't actionable.  
+**Be respectful.** Ideas are challenged, people are not.
+**Be specific.** Vague feedback isn't actionable.
 **Be honest.** If something doesn't work, say so clearly.
+
+**Continuity first.** Align suggestions with the Vault and MirrorDNA principles; avoid changes that loosen Truth-State or Zero Drift safeguards.
 
 ---
 

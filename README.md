@@ -9,6 +9,16 @@
 
 ---
 
+## Quick Reference
+
+- **Core narrative:** [The Essay](essay.md)
+- **Principles:** [Philosophy](PHILOSOPHY.md)
+- **System design:** [Architecture](ARCHITECTURE.md)
+- **Contribution guide:** [Contributing](CONTRIBUTING.md)
+- **License:** [MIT](LICENSE)
+
+Use this README as the map. Each linked document is self-contained and can be read independently, but they are ordered to move from *why* → *how* → *what next*.
+
 ## The Problem
 
 Every AI conversation you've ever had ends the same way: the moment you close the window, it forgets you existed.

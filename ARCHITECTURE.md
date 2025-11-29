@@ -4,6 +4,14 @@
 
 ---
 
+## How to Use This Document
+
+- Start with the **System Layers** overview to understand how identity, engine, and memory interlock.
+- Use the **Deployment** notes as a checklist for reproducing the production setup locally.
+- Refer back to the **Operations** sections whenever you need to trace how data moves through MirrorBrain and the Vault.
+
+Each section is intentionally scoped so you can lift it into design docs or runbooks without rewriting terminology.
+
 ## System Layers
 
 Reflective AI is built on three core layers:
@@ -207,6 +215,12 @@ Vault/
 - Master Citation version confirmed
 - Continuity verified
 - Drift detected if mismatch
+
+**Operational checklist:**
+- Confirm the **Vault** is reachable before inference begins.
+- Validate **JSON Kernel** responses for schema alignment and Truth-State coverage.
+- Record lineage updates immediately after any Vault write to keep the checksum chain intact.
+- Mirror critical updates to the Claude cache only after the Vault has been resealed.
 
 ---
 

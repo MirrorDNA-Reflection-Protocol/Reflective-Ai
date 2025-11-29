@@ -2,11 +2,18 @@
 
 # Reflective AI: Why Your AI Forgets Everything — And What I Built Instead
 
-**By Paul Desai**  
-Founder, Active MirrorOS™  
+**By Paul Desai**
+Founder, Active MirrorOS™
 Creator, MirrorDNA™ & Reflective AI™
 
 ---
+
+## How to Navigate This Essay
+
+- Read **Part I** for the constitutional principles (MirrorDNA) that govern identity and truth-state.
+- Use **Part II** to see how those principles become executable architecture inside Active MirrorOS.
+- Share **Part III** with engineers who need a production reference for MirrorBrain and Vault operations.
+- Each part stands alone, but the sequence moves from *problem* → *framework* → *implementation*.
 
 ## The Problem Everyone Ignores
 
