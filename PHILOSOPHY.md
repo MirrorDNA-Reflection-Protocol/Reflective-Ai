@@ -4,6 +4,12 @@
 
 ---
 
+## How to Read This
+
+- Use this essay to ground technical decisions in **why** continuity and identity matter.
+- Pair each principle with the corresponding architecture notes to keep implementation choices philosophically aligned.
+- When in doubt, default to Truth-State transparency: label uncertain claims as *Unknown* rather than smoothing over ambiguity.
+
 ## The Core Problem
 
 Modern AI excels at prediction but fails at persistence.
