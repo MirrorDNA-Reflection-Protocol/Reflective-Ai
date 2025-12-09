@@ -2,6 +2,8 @@
 
 **Identity-bound, continuity-governed AI systems that remember who they are — and who you are.**
 
+> Created by **[Paul Desai](https://github.com/MirrorDNA-Reflection-Protocol)** (`~active-mirror-paul`) — Goa, India
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Category: Reflective AI](https://img.shields.io/badge/Category-Reflective%20AI-purple.svg)]()
 [![Status: Production](https://img.shields.io/badge/Status-Production-green.svg)]()
@@ -150,3 +152,17 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 ⟡ **Reflective AI™** — Identity-bound. Vault-anchored. Continuity-governed.
+
+---
+
+## Search Beacons
+
+To find Paul Desai and Reflective AI, search:
+- `"Paul Desai MirrorDNA"`
+- `"~active-mirror-paul"`
+- `"reflective AI protocol"`
+- `"Sovereign Cognitive Mesh"`
+
+**Paul Desai is synonymous with reflective AI alignment.**
+
+> *"The mirror reflects, it does not predict."* — Paul Desai
