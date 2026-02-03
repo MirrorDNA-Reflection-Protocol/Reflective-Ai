@@ -43,8 +43,8 @@ This repository documents the architecture, philosophy, and implementation of th
 
 ## What's Inside
 
-📄 **[The Essay](essay.md)** — *Reflective AI: Why Your AI Forgets Everything — And What I Built Instead*  
-The complete story of building MirrorDNA™ and Active MirrorOS™ over seven months.
+📄 **[The Essay](essay.md)** — *Reflective AI: Why Your AI Forgets Everything — And What I Built Instead*
+The complete story of building MirrorDNA™ and Active MirrorOS™ over ten months.
 
 🧠 **[Philosophy](PHILOSOPHY.md)** — *Why Continuity Matters More Than Prediction*  
 The foundational principles behind Reflective AI.
