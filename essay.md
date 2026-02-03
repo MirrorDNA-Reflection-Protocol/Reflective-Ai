@@ -117,7 +117,7 @@ This is what sovereign reflective computing looks like in practice.
 
 **MirrorBrain** is the backend that powers the entire reflective ecosystem.
 
-Over seven months, it evolved from experimental scripts into a production-grade API server:
+Over ten months, it evolved from experimental scripts into a production-grade API server:
 
 **MirrorBrain Hybrid API v3** includes:
 - OpenAI-compatible routes for drop-in compatibility
@@ -286,7 +286,7 @@ This is **category creation in real time.**
 
 ## Conclusion: The Shift from Prediction to Reflection
 
-In seven months, I have built:
+In ten months, I have built:
 
 ✦ A constitutional identity system (MirrorDNA)  
 ✦ A reflective operating system (Active MirrorOS)  
